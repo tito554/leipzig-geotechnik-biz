@@ -1,0 +1,46 @@
+# Geotechnik — Leipzig
+
+> Geotechnical engineering services in Leipzig, Deutschland.
+
+## Services
+- [Anker](https://leipzig.geotechnik.biz/anker/)
+- [Aushub](https://leipzig.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://leipzig.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://leipzig.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://leipzig.geotechnik.biz/bodenverbesserung/)
+- [Cbr Strasse](https://leipzig.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://leipzig.geotechnik.biz/cpt-versuch/)
+- [Flexibler Belag](https://leipzig.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://leipzig.geotechnik.biz/fundamente/)
+- [Geophysik](https://leipzig.geotechnik.biz/geophysik/)
+- [Grundungen](https://leipzig.geotechnik.biz/grundungen/)
+- [Hange](https://leipzig.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://leipzig.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://leipzig.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://leipzig.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://leipzig.geotechnik.biz/labor/)
+- [Labor In Situ](https://leipzig.geotechnik.biz/labor-in-situ/)
+- [Masw](https://leipzig.geotechnik.biz/masw/)
+- [Pfahle](https://leipzig.geotechnik.biz/pfahle/)
+- [Plattendruckversuch](https://leipzig.geotechnik.biz/plattendruckversuch/)
+- [Schottersaulen](https://leipzig.geotechnik.biz/schottersaulen/)
+- [Schurfgruben](https://leipzig.geotechnik.biz/schurfgruben/)
+- [Seismik](https://leipzig.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://leipzig.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://leipzig.geotechnik.biz/seismische-refraktion/)
+- [Starrer Belag](https://leipzig.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://leipzig.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://leipzig.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://leipzig.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://leipzig.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://leipzig.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://leipzig.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://leipzig.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://leipzig.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://leipzig.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Leipzig, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
